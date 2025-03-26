@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "bfec",
+      "name": "mani",
+      "age": "18",
+      "height": "150",
+      "email": "mani@gmail.com"
+    },
+    {
+      "id": "071a",
+      "name": "mani",
+      "age": "18",
+      "height": "170",
+      "email": "manishankar5789@gmail.com"
+    }
+  ]
+}
